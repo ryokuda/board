@@ -6,7 +6,8 @@ export default function Layout({ children }) {
       <head>
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>掲示板アプリ</title>
+        <title>掲示板アプリ(SPA版)
+        </title>
         <link rel="icon" href="/favicon.ico" />
       </head>
       <body>{children}</body>
