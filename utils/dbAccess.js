@@ -1,6 +1,6 @@
 import $ from 'jquery';
 
-const URL="http://localhost/bulletin_board";
+const URL="http://localhost/board/backend";
 
 export const fetchTopics = () => {
   return $.ajax({
